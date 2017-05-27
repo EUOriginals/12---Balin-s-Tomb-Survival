@@ -1,0 +1,18 @@
+Gandalf Height: 5' 6" (5.5')
+	From Google Search
+
+Gandalf Staff Height: 5.15'
+	From scale comparison (AutoCAD) using "/images/gandalf"
+
+Gimli Height:  4' 4" (4.333')
+	From Google Search (Yahoo Answers)
+
+Great Hall Pillar Height: 105'
+	From scale comparison (AutoCAD) using /images/gandalf and "/images/great hall overview"
+	Rounded to 105' from 106.3338'
+	See "/images/pillar dimensions overview" for more detailed scale information
+	
+	
+
+			Balin's Tomb
+				Main Door Height: 10' (From Reference Picture, YouTube)
