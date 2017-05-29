@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7145"
-	"mapversion" "6"
+	"mapversion" "7"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "6"
+	"mapversion" "7"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -82550,13 +82550,29 @@ entity
 		"logicalpos" "[0 0]"
 	}
 }
+entity
+{
+	"id" "8229"
+	"classname" "weapon_grenade_launcher"
+	"angles" "0 335.5 -90"
+	"solid" "6"
+	"targetname" "item02"
+	"origin" "579 492 113"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[686.337 295.156 179.912]"
-		"look" "[118.72 474.463 154.963]"
+		"position" "[450.029 457.083 149.947]"
+		"look" "[551.467 954.289 -162.238]"
 	}
 }
 cordons

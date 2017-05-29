@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" 		"customtextures/Stone 2"
+	"$envmap" 		"env_cubemap"
+	"$envmapmask" 		"customtextures/Stone 2_specular"
+	"$envmapsaturation"	"0.1"
+	"$envmaptint"		"[0.1 0.1 0.1]"
+	"$surfaceprop" 		"Stone"
+}
