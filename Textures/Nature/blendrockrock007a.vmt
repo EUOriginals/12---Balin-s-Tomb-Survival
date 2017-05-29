@@ -7,6 +7,6 @@
 	"$surfaceprop" "dirt"
 	"$surfaceprop2" "dirt"
 	"$blendmodulatetexture" "nature/rockblendtexture001a"
-	"%detailtype" "canal_reeds2"
+	"%detailtype" "canal_reeds"
 }
 
