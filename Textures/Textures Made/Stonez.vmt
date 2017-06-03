@@ -1,0 +1,9 @@
+LightmappedGeneric
+{
+	$basetexture		customtextures/stone
+	$surfaceprop 		concrete
+	$bumpmap		customtextures/stone_ssbump
+
+	$ssbump			1
+	$SSBumpMathFix		1
+}

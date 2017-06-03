@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7145"
-	"mapversion" "7"
+	"mapversion" "9"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "7"
+	"mapversion" "9"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -132,9 +132,9 @@ world
 		{
 			"id" "12"
 			"plane" "(180 361.798 170.985) (180 423.798 170.985) (180 423.798 74.9847)"
-			"material" "CUSTOMTEXTURES/STONE 2"
-			"uaxis" "[0 1 0 -95.1939] 0.25"
-			"vaxis" "[0 0 -1 299.939] 0.25"
+			"material" "CUSTOMTEXTURES/STONEZ"
+			"uaxis" "[0 1 0 -95] 0.125"
+			"vaxis" "[0 0 -1 300] 0.125"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -50184,7 +50184,7 @@ world
 		{
 			"id" "4650"
 			"plane" "(-92 751.798 74.9847) (-92 364.798 74.9847) (-92 364.798 360.985)"
-			"material" "DEV/GRAYGRID"
+			"material" "CUSTOMTEXTURES/STONEZ"
 			"uaxis" "[0 1 0 -479.194] 0.25"
 			"vaxis" "[0 0 -1 299.939] 0.25"
 			"rotation" "0"
@@ -50195,7 +50195,7 @@ world
 		{
 			"id" "4651"
 			"plane" "(-104 751.798 74.9847) (-104 364.798 74.9847) (-92 364.798 74.9847)"
-			"material" "DEV/GRAYGRID"
+			"material" "CUSTOMTEXTURES/STONEZ"
 			"uaxis" "[-1 0 0 -416] 0.25"
 			"vaxis" "[0 -1 0 479.194] 0.25"
 			"rotation" "0"
@@ -50206,7 +50206,7 @@ world
 		{
 			"id" "4652"
 			"plane" "(-92 364.798 74.9847) (-104 364.798 74.9847) (-104 364.798 360.985)"
-			"material" "DEV/GRAYGRID"
+			"material" "CUSTOMTEXTURES/STONEZ"
 			"uaxis" "[1 0 0 416] 0.25"
 			"vaxis" "[0 0 -1 299.939] 0.25"
 			"rotation" "0"
@@ -50217,7 +50217,7 @@ world
 		{
 			"id" "4653"
 			"plane" "(-92 751.798 360.985) (-92 364.798 360.985) (-104 364.798 360.985)"
-			"material" "DEV/GRAYGRID"
+			"material" "CUSTOMTEXTURES/STONEZ"
 			"uaxis" "[1 0 0 416] 0.25"
 			"vaxis" "[0 -1 0 479.194] 0.25"
 			"rotation" "0"
@@ -50228,7 +50228,7 @@ world
 		{
 			"id" "4654"
 			"plane" "(-92 751.798 360.985) (-104 751.798 360.985) (-104 751.798 74.9847)"
-			"material" "DEV/GRAYGRID"
+			"material" "CUSTOMTEXTURES/STONEZ"
 			"uaxis" "[-1 0 0 -416] 0.25"
 			"vaxis" "[0 0 -1 299.939] 0.25"
 			"rotation" "0"
@@ -50239,7 +50239,7 @@ world
 		{
 			"id" "4655"
 			"plane" "(-104 751.798 360.985) (-104 364.798 360.985) (-104 364.798 74.9847)"
-			"material" "DEV/GRAYGRID"
+			"material" "CUSTOMTEXTURES/STONEZ"
 			"uaxis" "[0 -1 0 479.194] 0.25"
 			"vaxis" "[0 0 -1 299.939] 0.25"
 			"rotation" "0"
@@ -64421,9 +64421,9 @@ world
 		{
 			"id" "5993"
 			"plane" "(90.0153 583.798 74.9847) (96.7999 583.798 152.534) (96.7999 663.798 152.534)"
-			"material" "CUSTOMTEXTURES/STONE 2"
-			"uaxis" "[0 -1 0 95.1939] 0.25"
-			"vaxis" "[-0.087156 0 -0.996195 306.467] 0.25"
+			"material" "CUSTOMTEXTURES/STONEZ"
+			"uaxis" "[0 -1 0 95] 0.25"
+			"vaxis" "[-0.087156 0 -0.996195 306] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -82261,7 +82261,7 @@ entity
 	"origin" "552.742 511.542 113"
 	editor
 	{
-		"color" "0 148 133"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 8500]"
@@ -82284,7 +82284,7 @@ entity
 	"origin" "567.597 509.455 73"
 	editor
 	{
-		"color" "0 114 207"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 7000]"
@@ -82305,7 +82305,7 @@ entity
 	"origin" "607.331 511.949 110"
 	editor
 	{
-		"color" "0 168 125"
+		"color" "220 30 220"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -10768]"
@@ -82321,7 +82321,7 @@ entity
 	"origin" "523.853 528.73 111"
 	editor
 	{
-		"color" "0 250 235"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 15500]"
@@ -82337,7 +82337,7 @@ entity
 	"origin" "522.044 515.857 109"
 	editor
 	{
-		"color" "0 100 205"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 16000]"
@@ -82354,7 +82354,7 @@ entity
 	"origin" "469.83 491.169 116"
 	editor
 	{
-		"color" "0 206 171"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -15268]"
@@ -82371,7 +82371,7 @@ entity
 	"origin" "473.847 495.397 116"
 	editor
 	{
-		"color" "0 196 125"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -15768]"
@@ -82388,7 +82388,7 @@ entity
 	"origin" "479.466 493.842 116"
 	editor
 	{
-		"color" "0 162 135"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -14268]"
@@ -82405,7 +82405,7 @@ entity
 	"origin" "478.13 498.66 116"
 	editor
 	{
-		"color" "0 228 205"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -14768]"
@@ -82428,7 +82428,7 @@ entity
 	"origin" "441.359 504.029 75"
 	editor
 	{
-		"color" "0 142 243"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 7000]"
@@ -82444,7 +82444,7 @@ entity
 	"origin" "459.555 494.547 111"
 	editor
 	{
-		"color" "0 228 149"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -16268]"
@@ -82461,7 +82461,7 @@ entity
 	"origin" "429.09 480.909 112"
 	editor
 	{
-		"color" "0 218 247"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -12268]"
@@ -82495,7 +82495,7 @@ entity
 	"origin" "397.947 503.405 112"
 	editor
 	{
-		"color" "0 122 251"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 0]"
@@ -82511,7 +82511,7 @@ entity
 	"origin" "405.963 474.496 114"
 	editor
 	{
-		"color" "0 120 121"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -82527,7 +82527,7 @@ entity
 	"origin" "418.386 482.091 114"
 	editor
 	{
-		"color" "0 142 211"
+		"color" "0 0 200"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 500]"
@@ -82572,7 +82572,7 @@ cameras
 	camera
 	{
 		"position" "[450.029 457.083 149.947]"
-		"look" "[551.467 954.289 -162.238]"
+		"look" "[-124.839 308.744 100.092]"
 	}
 }
 cordons
