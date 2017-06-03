@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7145"
-	"mapversion" "9"
+	"mapversion" "10"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "9"
+	"mapversion" "10"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -7287,7 +7287,7 @@ world
 		{
 			"id" "671"
 			"plane" "(180 91.7985 170.985) (180 153.798 170.985) (180 153.798 74.9847)"
-			"material" "CUSTOMTEXTURES/STONE 2"
+			"material" "CUSTOMTEXTURES/STONEZ_NORM"
 			"uaxis" "[0 1 0 -39.1939] 0.25"
 			"vaxis" "[0 0 -1 299.939] 0.25"
 			"rotation" "0"
@@ -7331,7 +7331,7 @@ world
 		{
 			"id" "675"
 			"plane" "(180 153.798 170.985) (6 153.798 170.985) (6 153.798 74.9847)"
-			"material" "CUSTOMTEXTURES/STONE 2"
+			"material" "CUSTOMTEXTURES/STONEZ_NORM"
 			"uaxis" "[-1 0 0 112] 0.25"
 			"vaxis" "[0 0 -1 299.939] 0.25"
 			"rotation" "0"
@@ -14454,7 +14454,7 @@ world
 		{
 			"id" "1331"
 			"plane" "(180 153.798 270.985) (6 153.798 270.985) (6 153.798 174.985)"
-			"material" "DEV/GRAYGRID"
+			"material" "CUSTOMTEXTURES/STONEZ_NORM"
 			"uaxis" "[-1 0 0 112] 0.25"
 			"vaxis" "[0 0 -1 187.939] 0.25"
 			"rotation" "0"
@@ -59927,7 +59927,7 @@ world
 		{
 			"id" "5579"
 			"plane" "(427.2 -180.202 262.985) (434.899 -180.202 174.985) (569.101 -180.202 174.985)"
-			"material" "DEV/GRAYGRID"
+			"material" "CUSTOMTEXTURES/STONEZ_NORM"
 			"uaxis" "[-1 0 0 172.8] 0.25"
 			"vaxis" "[0 0 -1 229.743] 0.25"
 			"rotation" "0"
@@ -60025,7 +60025,7 @@ world
 		{
 			"id" "5588"
 			"plane" "(187.2 -180.202 262.985) (194.899 -180.202 174.985) (329.101 -180.202 174.985)"
-			"material" "DEV/GRAYGRID"
+			"material" "CUSTOMTEXTURES/STONEZ_NORM"
 			"uaxis" "[-1 0 0 236.8] 0.25"
 			"vaxis" "[0 0 -1 229.743] 0.25"
 			"rotation" "0"
@@ -60112,7 +60112,7 @@ world
 		{
 			"id" "5596"
 			"plane" "(816.8 -180.202 262.985) (667.2 -180.202 262.985) (674.899 -180.202 174.985)"
-			"material" "DEV/GRAYGRID"
+			"material" "CUSTOMTEXTURES/STONEZ_NORM"
 			"uaxis" "[-1 0 0 108.8] 0.25"
 			"vaxis" "[0 0 -1 229.743] 0.25"
 			"rotation" "0"
@@ -81250,7 +81250,7 @@ world
 		{
 			"id" "7545"
 			"plane" "(-92 -236.202 360.985) (1022 -236.202 360.985) (1022 94.7985 360.985)"
-			"material" "DEV/GRAYGRID"
+			"material" "CUSTOMTEXTURES/STONEZ_NORM"
 			"uaxis" "[-1 0 0 -368] 0.25"
 			"vaxis" "[0 -1 0 -432.806] 0.25"
 			"rotation" "0"
@@ -81554,7 +81554,7 @@ world
 		{
 			"id" "7573"
 			"plane" "(-104 -236.202 167.985) (818.152 -236.202 167.985) (818.152 -236.202 262.985)"
-			"material" "DEV/GRAYGRID"
+			"material" "CUSTOMTEXTURES/STONEZ_NORM"
 			"uaxis" "[-1 0 0 -191.393] 0.25"
 			"vaxis" "[0 0 -1 159.939] 0.25"
 			"rotation" "0"
@@ -82571,8 +82571,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[450.029 457.083 149.947]"
-		"look" "[-124.839 308.744 100.092]"
+		"position" "[507.922 472.022 154.968]"
+		"look" "[628.377 -111.225 171.602]"
 	}
 }
 cordons

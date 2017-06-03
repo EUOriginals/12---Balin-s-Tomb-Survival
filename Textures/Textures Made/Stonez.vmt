@@ -1,8 +1,10 @@
 LightmappedGeneric
 {
-	$basetexture		customtextures/stone
+	$basetexture		customtextures/stone_diff
 	$surfaceprop 		concrete
 	$bumpmap		customtextures/stone_ssbump
+	$parallaxmap		customtextures/stone_height
+	$parallaxmapscale 	0.1
 
 	$ssbump			1
 	$SSBumpMathFix		1

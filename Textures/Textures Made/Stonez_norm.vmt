@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+	$basetexture		customtextures/stone_diff
+	$surfaceprop 		concrete
+	$bumpmap		customtextures/stone_norm
+	$parallaxmap		customtextures/stone_height
+	$parallaxmapscale 	0.1
+}
