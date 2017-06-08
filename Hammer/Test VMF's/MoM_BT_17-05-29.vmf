@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7145"
-	"mapversion" "10"
+	"mapversion" "11"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "10"
+	"mapversion" "11"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -59928,8 +59928,8 @@ world
 			"id" "5579"
 			"plane" "(427.2 -180.202 262.985) (434.899 -180.202 174.985) (569.101 -180.202 174.985)"
 			"material" "CUSTOMTEXTURES/STONEZ_NORM"
-			"uaxis" "[-1 0 0 172.8] 0.25"
-			"vaxis" "[0 0 -1 229.743] 0.25"
+			"uaxis" "[-1 0 0 172.8] 0.1"
+			"vaxis" "[0 0 -1 229.743] 0.1"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -60026,8 +60026,8 @@ world
 			"id" "5588"
 			"plane" "(187.2 -180.202 262.985) (194.899 -180.202 174.985) (329.101 -180.202 174.985)"
 			"material" "CUSTOMTEXTURES/STONEZ_NORM"
-			"uaxis" "[-1 0 0 236.8] 0.25"
-			"vaxis" "[0 0 -1 229.743] 0.25"
+			"uaxis" "[-1 0 0 236.8] 0.1"
+			"vaxis" "[0 0 -1 229.743] 0.1"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -81555,8 +81555,8 @@ world
 			"id" "7573"
 			"plane" "(-104 -236.202 167.985) (818.152 -236.202 167.985) (818.152 -236.202 262.985)"
 			"material" "CUSTOMTEXTURES/STONEZ_NORM"
-			"uaxis" "[-1 0 0 -191.393] 0.25"
-			"vaxis" "[0 0 -1 159.939] 0.25"
+			"uaxis" "[-1 0 0 -191.393] 0.1"
+			"vaxis" "[0 0 -1 159.939] 0.1"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -82571,8 +82571,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[507.922 472.022 154.968]"
-		"look" "[628.377 -111.225 171.602]"
+		"position" "[382.026 42.1105 183.092]"
+		"look" "[-105.896 380.355 133.237]"
 	}
 }
 cordons
